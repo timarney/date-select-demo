@@ -1,0 +1,24 @@
+{
+  "name": "date-select-backup-plan",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/XDAE3x0W8",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "1.29.0",
+    "react": "latest",
+    "react-clipboard.js": "2.0.0",
+    "react-day-picker": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
